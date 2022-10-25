@@ -5,10 +5,7 @@
 <ul><h3>Tópicos</h3>
 <li>POO</li>
 <li>Classes</li>
-<li>public</li>
-<li>private</li>
 <li>Métodos</li>
-<li>Super classse</li>
 <li>Herança</li>
 <li>Polimorfismo</li>
 <li>Constructor</li>
