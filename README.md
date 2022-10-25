@@ -1,4 +1,4 @@
-<h2>ITStep_Aula_12_Java_POO-heranca_polimorfismo.</h2>
+<h2>TStep Aula 12_Java/POO - Herança e Polimorfismo.</h2>
 
 <p>Sistema de Cadastro e Consulta de Alunos e Professores - Introdução a Herança e Polimorfismo em JAVA.</p>
 
